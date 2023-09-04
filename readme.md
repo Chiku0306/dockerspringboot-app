@@ -28,3 +28,6 @@ $ sudo docker run -d -p 8080:8080 -t spring-boot:1.0
 
   access http://localhost:8080
 ```
+
+
+![Build Badge](![Build Status](http://jenkins.cloudgaurdtechnologies.com:8080/job/springboot-nexuspoc/badge/icon))
